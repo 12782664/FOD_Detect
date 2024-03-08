@@ -1,0 +1,6 @@
+{
+    "open_eye": 0,
+    "closed_eye": 1,
+    "closed_mouth": 2,
+    "open_mouth": 3
+}
